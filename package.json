@@ -1,0 +1,24 @@
+{
+  "name": "backend_pro2",
+  "version": "1.0.0",
+  "description": "https://trello.com/b/99icNKgV/backendnodejs-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihesah1/Backend_Pro2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihesah1/Backend_Pro2/issues"
+  },
+  "homepage": "https://github.com/ihesah1/Backend_Pro2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
